@@ -4,7 +4,44 @@
  * Implemente as funções a partir daqui.
  */
 
-// Exemplo: function minhaFuncao() { ... }
+
+
+let listaMensagens = {
+    "apelido": "...",
+    "mensagem": "..."
+}
+
+
+
+ 
+function formatarMensagens(){
+
+  let chatHtml = '';
+
+  
+
+
+
+}
+
+
+
+
+
+
+
+function commitMessageClickHandler(){
+
+}
+
+
+
+
+
+
+
+
+
 
 
 // --------------------------------
