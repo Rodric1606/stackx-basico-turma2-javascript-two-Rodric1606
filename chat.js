@@ -4,7 +4,6 @@
  * Implemente as funções a partir daqui.
  */
 
-
 let infoHtml = '';
 let listaMensagens = [];
 
@@ -75,7 +74,7 @@ function formatarMensagens(){
 }
 
 
-/*
+
 // --------------------------------
 // Não remover estas linhas
 // --------------------------------
@@ -88,4 +87,3 @@ module.exports =
   commitMessageClickHandler
 };
 // --------------------------------
-*/
